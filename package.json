@@ -1,0 +1,16 @@
+{
+  "name": "typescript-parameter-inlay-hints-issue",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Segev Finer <segev208@gmail.com>",
+  "license": "Unlicense",
+  "devDependencies": {
+    "@tsconfig/node18": "^18.2.2",
+    "@types/node": "18",
+    "typescript": "~5.2.2"
+  }
+}

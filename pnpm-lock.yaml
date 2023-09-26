@@ -1,0 +1,27 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@tsconfig/node18': ^18.2.2
+  '@types/node': '18'
+  typescript: ~5.2.2
+
+devDependencies:
+  '@tsconfig/node18': 18.2.2
+  '@types/node': 18.18.0
+  typescript: 5.2.2
+
+packages:
+
+  /@tsconfig/node18/18.2.2:
+    resolution: {integrity: sha512-d6McJeGsuoRlwWZmVIeE8CUA27lu6jLjvv1JzqmpsytOYYbVi1tHZEnwCNVOXnj4pyLvneZlFlpXUK+X9wBWyw==}
+    dev: true
+
+  /@types/node/18.18.0:
+    resolution: {integrity: sha512-3xA4X31gHT1F1l38ATDIL9GpRLdwVhnEFC8Uikv5ZLlXATwrCYyPq7ZWHxzxc3J/30SUiwiYT+bQe0/XvKlWbw==}
+    dev: true
+
+  /typescript/5.2.2:
+    resolution: {integrity: sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w==}
+    engines: {node: '>=14.17'}
+    hasBin: true
+    dev: true

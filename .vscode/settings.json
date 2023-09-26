@@ -1,0 +1,4 @@
+{
+    "typescript.inlayHints.parameterNames.enabled": "literals",
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
